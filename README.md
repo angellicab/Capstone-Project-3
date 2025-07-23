@@ -1,6 +1,6 @@
 # E-Commerce Customer Churn Prediction
 
-Project ini bertujuan untuk membangun model machine learning klasifikasi yang dapat memprediksi customer churn. Label 0 : not churn, label 1 : churn
+Project ini bertujuan untuk menghasilkan model machine learning klasifikasi yang dapat memprediksi customer churn. Label 0 : not churn, label 1 : churn
 
 **Problem Statement**
 
